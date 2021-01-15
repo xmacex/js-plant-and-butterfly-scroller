@@ -1,0 +1,10 @@
+#nature {
+    position: fixed;
+    float: left;
+    width: 48%;
+}
+
+#prose {
+    width: 48%;
+    float: right;
+}
